@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-Simple projects created using HTML/CSS + JavaScript
+Simple website with test
